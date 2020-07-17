@@ -28,7 +28,7 @@
     "express": "^4.12.4",
     "html5shiv": "aFarkas/html5shiv.git#3.7.2",
     "layzr.js": "^1.1.4",
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.19",
     "react": "^0.13.3",
     "requestanimationframe": "0.0.22",
     "respond.js": "^1.4.2",
